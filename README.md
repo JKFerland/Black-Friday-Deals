@@ -893,4 +893,8 @@ GlanceCam is a secure and beloved IP camera viewer for macOS, with over 600 App 
 
 Organize, track, and treasure your stuff with Thingybase, a home inventory application for collectors, hobbyists, and families. When you need to know where something is in your home, just search for it.
 
+### 🧸 [Thingybase](https://thingybase.com/black-friday?utm_source=gh-mRs-) - 50% Off Thingybase annual plan.
+
+Organize, track, and treasure your stuff with Thingybase, a home inventory application for collectors, hobbyists, and families. When you need to know where something is in your home, just search for it.
+
 ## 🕹 Games
