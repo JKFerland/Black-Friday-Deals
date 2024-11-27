@@ -15,7 +15,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 - [🌈 Marketing Software](#-marketing-software)
 - [🎩 Security Software](#tophat-security-software)
 - [🎛 Utility Software](#-utility-software)
-- [📌 Productivity Software](#-productivity-software)
+- [📌 Productivity Software](#-productivity-software) f
 - [🎥 Video Software](#video-software)
 - [🎨 Graphic Software](#-graphic-software)
 - [🏝️ Lifestyle](#%EF%B8%8F-lifestyle)
